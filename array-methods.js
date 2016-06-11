@@ -1,17 +1,11 @@
-# Solar System IIFE
-##Single Page App / JavaScript / Arrays Solar System IIFE 
-
-## Instructions
-
-1. Copy the code below into the JavaScript file, and follow the instructions in the comments.
-
-```javascript
 var planets = ["mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune"];
+
 
 /* 
  Use the forEach method to add the name of each planet
  to a div element in your HTML with an id of "planets".
 */
+
 var el = document.getElementById("planets");
 
 // Use the map method to create a new array where the first letter of each planet is capitalized
