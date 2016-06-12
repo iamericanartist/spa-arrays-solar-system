@@ -1,4 +1,4 @@
-# Solar System IIFE
+# Solar System IIFE Array Methods
 ##Single Page App / JavaScript / Arrays Solar System IIFE 
 
 ## Instructions
